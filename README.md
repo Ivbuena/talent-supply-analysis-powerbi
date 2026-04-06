@@ -47,8 +47,9 @@ I developed a multi-page Power BI report that:
 ---
 
 ## 📂 Repository Contents
-- `Talent_Supply_Analysis.pbix` – Power BI report file  
-- `README.md` – Project documentation  
+📌 Note  
+The dataset used in this report is sample/anonymized data and is presented solely for portfolio demonstration purposes.
+📂 PBIX file available upon request.
 
 ---
 
